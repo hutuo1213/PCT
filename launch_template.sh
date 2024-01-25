@@ -6,7 +6,7 @@
 # 
 # The Australian National University
 # Australian Centre for Robotic Vision
-
+# The command is also applicable to PCT.
 # -------------------------------
 # Training commands
 # -------------------------------
