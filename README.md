@@ -1,8 +1,11 @@
 # Pairwise CNN-Transformer Features
 This is the official implementation code for Pairwise CNN-Transformer Features for Human-Object Interaction Detection.
 
-## Training and Testing
+## Status
+Currently, we have only uploaded the core code, and the related code is undergoing cleanup.
+If you are interested in our work, please read the UPT code first; reproducing our work is straightforward.
 
+## Training and Testing
 Refer to [`launch_template.sh`](./launch_template.sh) for training and testing commands with different options. 
 
 To test the PCT model on HICO-DET, you can either use the Python utilities UPT implemented or the Matlab utilities provided by [Chao et al.](https://github.com/ywchao/ho-rcnn). For V-COCO, we did not implement evaluation utilities, and instead use the utilities provided by [Gupta et al.](https://github.com/s-gupta/v-coco#evaluation). Refer to these [instructions](https://github.com/fredzzhang/upt/discussions/14) for more details.
