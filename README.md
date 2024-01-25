@@ -5,7 +5,7 @@ This is the official implementation code for Pairwise CNN-Transformer Features f
 
 Refer to [`launch_template.sh`](./launch_template.sh) for training and testing commands with different options. 
 
-To test the PCT model on HICO-DET, you can either use the Python utilities we implemented or the Matlab utilities provided by [Chao et al.](https://github.com/ywchao/ho-rcnn). For V-COCO, we did not implement evaluation utilities, and instead use the utilities provided by [Gupta et al.](https://github.com/s-gupta/v-coco#evaluation). Refer to these [instructions](https://github.com/fredzzhang/upt/discussions/14) for more details.
+To test the PCT model on HICO-DET, you can either use the Python utilities UPT implemented or the Matlab utilities provided by [Chao et al.](https://github.com/ywchao/ho-rcnn). For V-COCO, we did not implement evaluation utilities, and instead use the utilities provided by [Gupta et al.](https://github.com/s-gupta/v-coco#evaluation). Refer to these [instructions](https://github.com/fredzzhang/upt/discussions/14) for more details.
 
 ## Model Zoo
 UPT provides weights for fine-tuned DETR models to facilitate reproducibility. To attempt fine-tuning the DETR model yourself, refer to [this repository](https://github.com/fredzzhang/hicodet).
