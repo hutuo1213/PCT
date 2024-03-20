@@ -1,5 +1,6 @@
 # Pairwise CNN-Transformer Features
-This is the official implementation code for Pairwise CNN-Transformer Features for Human-Object Interaction Detection.
+> This is the official implementation code for Pairwise CNN-Transformer Features for Human-Object Interaction Detection.
+\[[__paper__](https://www.mdpi.com/1099-4300/26/3/205)\]
 
 ## Status
 Currently, we have only uploaded the core code, and the related code is undergoing cleanup.
