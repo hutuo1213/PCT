@@ -2,6 +2,8 @@
 > This is the official implementation code for Pairwise CNN-Transformer Features for Human-Object Interaction Detection.
 \[[__paper__](https://www.mdpi.com/1099-4300/26/3/205)\]
 
+<img src="./assets/pct.png" align="center" height="300">
+
 ## Status
 Currently, we have only uploaded the core code, and the related code is undergoing cleanup.
 If you are interested in our work, please read the UPT code first; reproducing our work is straightforward.
