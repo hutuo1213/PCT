@@ -25,3 +25,6 @@ UPT provides weights for fine-tuned DETR models to facilitate reproducibility. T
 |:-|:-:|:-:|:-:|:-:|
 |PCT-R50|V-COCO|`59.4`|`65.0`|[weights](https://drive.google.com/file/d/19KMHdR_Hu5x4YDUS0UKW2Ic_gQ-nehuv/view?usp=drive_link)|
 |PCT-R101|V-COCO|`61.4`|`67.1`|[weights](https://drive.google.com/file/d/1erwK1Au0iXn0PF1eJEepl-qVFRTelu7R/view?usp=drive_link)|
+
+##Acknowledgement
+Many thanks to Researcher Zhang for the valuable advice.
