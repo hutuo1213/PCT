@@ -5,7 +5,7 @@
 <img src="./assets/pct.png" align="center" height="300">
 
 ## Status
-Currently, we have only uploaded the core code, and the related code is undergoing cleanup.
+We don't update the code anymore. Please contact quanhutuo@qq.com (emil) with any questions.
 If you are interested in our work, please read the UPT code first; reproducing our work is straightforward.
 
 ## Training and Testing
